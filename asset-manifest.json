@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pankj6342.github.io/csb-gu2fi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pankj6342.github.io/csb-gu2fi/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://pankj6342.github.io/csb-gu2fi/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://pankj6342.github.io/csb-gu2fi/static/js/runtime-main.c2f8fdb6.js",
+    "runtime-main.js.map": "https://pankj6342.github.io/csb-gu2fi/static/js/runtime-main.c2f8fdb6.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://pankj6342.github.io/csb-gu2fi/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://pankj6342.github.io/csb-gu2fi/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://pankj6342.github.io/csb-gu2fi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pankj6342.github.io/csb-gu2fi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://pankj6342.github.io/csb-gu2fi/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f8fdb6.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
